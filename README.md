@@ -1,4 +1,4 @@
-# TunaCan
+# TunaCanCan
 ## Overview
 本リポジトリは[第9回タカハソレノイドコンテスト(ソレコン)](https://www.takaha.co.jp/co/solcon/)の開発リポジトリです．
 
