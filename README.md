@@ -7,6 +7,7 @@
 ## System Configuration
 * システム構成図
 <img src="img/sysconfig.jpg" width="640">
+
 * 配線図
 <img src="img/wiring.jpg" width="640">
 
