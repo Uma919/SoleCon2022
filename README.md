@@ -5,7 +5,10 @@
 本リポジトリは[第9回タカハソレノイドコンテスト(ソレコン)](https://www.takaha.co.jp/co/solcon/)の開発リポジトリです．
 
 ## System Configuration
-<img src="img/sysconfig.jpg" width="460">
+* システム構成図
+<img src="img/sysconfig.jpg" width="640">
+* 配線図
+<img src="img/wiring.jpg" width="640">
 
 **備考**  
 応募受付 2022年1月7日（金）〜2月10日（木）  
