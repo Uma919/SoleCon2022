@@ -1,13 +1,19 @@
 # TunaCanCan
-<img src="img/logo.jpg" width="460">
+<img src="img/logo.jpg" width="320">
 
-本リポジトリは[第9回タカハソレノイドコンテスト(ソレコン)](https://www.takaha.co.jp/co/solcon/)の開発リポジトリです．
+<img src="img/tunacancan_cad.jpg" width="320">
+
+本リポジトリは[第9回タカハソレノイドコンテスト(ソレコン)](https://www.takaha.co.jp/co/solcon/)の開発リポジトリです．  
+誰もがテレビで見たことのあるタライ落としをツナ缶で再現してみました．本作品はソレノイドによるツナ缶ブレーキ機構とToFセンサによる自動高さ計測機能を搭載しており，タライ落としと比較して利便性・安全性に優れたものとなっています．
 
 # DEMO
-動画編集中…
+紹介動画は下記サムネイルをクリック！  
+[![](https://img.youtube.com/vi/3RS2GQzGsOU/0.jpg)](https://www.youtube.com/watch?v=3RS2GQzGsOU)
 
 # Features
-準備中…
+ツナ缶ブレーキ機構の基本原理はうなぎの掴み方を参考にしています．３本の指で挟むことで滑りやすいうなぎを持つことができますが，本作品でも下図に示す機構により細く滑りやすい糸の把持を実現しています．  
+<img src="img/brake_before.jpg" width="320">
+<img src="img/brake_after.jpg" width="320">
 
 # S/W
 ## Requirement
@@ -17,11 +23,11 @@
 
 # H/W
 ## Configuration and Wiring
-* システム構成図
-<img src="img/sysconfig.jpg" width="640">
+* システム構成図  
+<img src="img/sysconfig.jpg" width="460">
 
-* 配線図
-<img src="img/wiring.jpg" width="640">
+* 配線図  
+<img src="img/wiring.jpg" width="460">
 
 ## Parts List
 * 電装部品
