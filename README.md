@@ -65,5 +65,5 @@ Uma919 [Twitter](https://mobile.twitter.com/Uma_919)
 九州工業大学(Kyutech)
 
 # License
-"Tuna Can Can" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"TunaCanCan" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
