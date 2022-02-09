@@ -51,7 +51,7 @@
     * [パンチングボード（カラー、２５ｃｍｘ２５ｃｍ）](https://jp.daisonet.com/products/4549892506628) 1個
     * [フジ リムナイロン戸車[RM24]](http://www.yaboshi.co.jp/catalog_vol7_87.pdf) 3個
     * [3Dプリント部品](/stl)
-    * [L判写真](/img) 1枚
+    * [L判写真](/img/idol.jpg) 1枚
     * L判用硬質ケース 1枚
     * 糸
     * ネジやナットなどの締結部品
